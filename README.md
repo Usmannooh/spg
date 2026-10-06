@@ -20,7 +20,7 @@ MWCL/
 │   ├── dataloader/
 │   ├── modal/
     ├── ..../
-│   ├── weighted/
+│   ├── cqs/
 │   ├── metrics/
 │   ├── tokenizer/
 │   └── utils/
