@@ -1,5 +1,5 @@
 # spg
-
+-->
  ##  Dataset
 
 Download the following datasets and place them under the `data/` directory:
@@ -10,7 +10,7 @@ Download the following datasets and place them under the `data/` directory:
 Expected directory structure:
 
 ```
-MWCL/
+spg/
 ├── config/
 ├── data/
 │   ├── iu_xray/
@@ -33,3 +33,4 @@ MWCL/
 └── README.md
 
 ```
+-->
